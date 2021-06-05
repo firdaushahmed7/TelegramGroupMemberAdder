@@ -31,7 +31,7 @@ while True:
 	print("""	\n\tThe application is going to start ...
 	for just getting group chatID give me 1
 	and for gettin group chatID and use it for
-	adding members give me 2 and for exit
+	adding members give me 2 & for exit
 	give me 3""")
 
 	To_Do = input("\nSo function 1 or 2 or 3 ? : ")
